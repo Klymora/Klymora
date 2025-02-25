@@ -4,5 +4,5 @@
 💾 Blockchain & open-source  
 
 ## 📊 GitHub Stats  
-![Klymora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klymora&show_icons=true&theme=gradient)
-
+![Klymora's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Klymora&theme=radical)  
+![Klymora's Contribution](https://github-readme-stats.vercel.app/api/top-langs/?username=Klymora&layout=compact&theme=radical)
